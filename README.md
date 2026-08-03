@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 👋, I'm Nirav Vansadadiya
 I am an Information Technology student passionate about Full Stack Web Development and Artificial Intelligence. I have hands-on experience in building MERN Stack web applications, Android applications, and exploring AI-powered solutions. My goal is to become a skilled Full Stack Developer and AI Engineer by continuously learning modern technologies and applying them to solve real-world problems. I am a quick learner, a strong team player, and always eager to improve my technical and problem-solving skills.<br><br>language - javascript, c, java, python, node.js,react.js, next.js,express.js<br>database - mysql,mongodb, postgresql<br>devops - git-github, AWS, JIRA
 
 
